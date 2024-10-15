@@ -25,12 +25,12 @@ export const data = [
     // git: "https://github.com/devdhirendra",
   },
   {
-    id: 3,
-    img: 'https://i.postimg.cc/0NPK6WKL/Sumhr.png',
-    title: "Sumhr",
+    id: 4,
+    img: 'https://i.postimg.cc/WpW1dFVx/Screenshot-35.png',
+    title: "TextUtils",
     desc: "",
-    // link: "https://dhirendraojha-vueapp.netlify.app/",
-    // git: "https://github.com/devdhirendra",
+    link: "textutils-avneesh.netlify.app",
+    git: "https://github.com/avneesh9908/TextUtils.",
   }
 
 ];
