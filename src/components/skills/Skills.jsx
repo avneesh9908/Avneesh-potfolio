@@ -132,7 +132,7 @@ const Skills = ({ darkMode }) => {
   />
   <img
     className="w-[40px] h-[40px] sm:w-[35px] sm:h-[35px]"
-    src="https://img.icons8.com/?size=100&id=2778&format=png&color=000000"
+    src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000"
   />
   <img
     className="w-[40px] h-[40px] sm:w-[35px] sm:h-[35px]"
