@@ -25,12 +25,14 @@ export const data = [
     // git: "https://github.com/devdhirendra",
   },
   {
-    id: 4,
-    img: 'https://i.postimg.cc/WpW1dFVx/Screenshot-35.png',
-    title: "TextUtils",
-    desc: "",
-    link: "textutils-avneesh.netlify.app",
-    git: "https://github.com/avneesh9908/TextUtils.",
-  }
+    
+      id: 4,
+      img: 'https://i.postimg.cc/WpW1dFVx/Screenshot-35.png',
+      title: "TextUtils",
+      desc: "",
+      link: "https://textutils-avneesh.netlify.app/",
+      git: "https://github.com/avneesh9908/TextUtils",
+    }
+    
 
 ];
