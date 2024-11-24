@@ -1,38 +1,26 @@
-
-
 export const data = [
   {
     id: 1,
-    img: 'https://i.postimg.cc/J7KmYBN1/Screenshot-2024-10-11-164849.png',
-    title: "Image Stegenography",
+    img: "https://i.postimg.cc/85WZncZR/Untitled-design-4.png",
+    title: "Dyna Beats Music Player",
     desc: "",
-    // link: "https://dhirendraojha-vueapp.netlify.app/",
-    // git: "https://github.com/devdhirendra",
+    link: "https://6742c6bdc174583db22b5794--dynabeats.netlify.app/",
+    git: "https://github.com/avneesh9908/Dyna-Beats.git",
   },
   {
     id: 2,
-    img: 'https://i.postimg.cc/j5fzMbwf/268387648-cfe9bdc4-40e6-438b-9352-abf0fc3d3168.png',
-    title: "Smart Bizuka App",
+    img: "https://i.postimg.cc/dQTHLk6J/Untitled-design-3.png",
+    title: "Corona Representation Map",
     link: "",
     // git: "https://github.com/devdhirendra",
   },
+
   {
     id: 3,
-    img: 'https://i.postimg.cc/0NPK6WKL/Sumhr.png',
-    title: "Sumhr",
+    img: "https://i.postimg.cc/9f5FHqLz/Untitled-design-2.png",
+    title: "TextUtils",
     desc: "",
-    // link: "https://dhirendraojha-vueapp.netlify.app/",
-    // git: "https://github.com/devdhirendra",
+    link: "https://textutils-avneesh.netlify.app/",
+    git: "https://github.com/avneesh9908/TextUtils",
   },
-  {
-    
-      id: 4,
-      img: 'https://i.postimg.cc/WpW1dFVx/Screenshot-35.png',
-      title: "TextUtils",
-      desc: "",
-      link: "https://textutils-avneesh.netlify.app/",
-      git: "https://github.com/avneesh9908/TextUtils",
-    }
-    
-
 ];
