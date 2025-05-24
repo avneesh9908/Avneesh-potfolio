@@ -38,20 +38,22 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Web Developer Intern
+                Junior Software Developer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  OctaNet Software Pvt. ltd.
+               Xtra4 System Pvt. Ltd.
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  July 2023 - September 2023
+                  DEC 2024 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  •	Collaborate with the development team to create and implement visually appealing and user-friendly web applications using React.js.<br/>
-                  •	where I played a key role in developing a React-based restaurant management system and a feature-rich
-                  chat application.<br/>
-                  •	These experiences enhanced my frontend skills, introduced me to agile methods, and honed my teamwork and
-                  problem-solving abilities. I’m eager to apply these skills in future software development roles.
+                  • Built and enhanced full-stack applications during internship and full-time role, contributing to a React-Node.js E-Commerce platform with payment integration and an Angular-based cloud ERP system.<br/>
+
+                  • Focused on performance optimization, feature implementation, and user experience improvements in the ERP solution, ensuring scalable and maintainable code in a production environment.<br/>
+
+                  • Collaborated with cross-functional teams using agile methodologies, participating in sprint planning, code reviews, and iterative development to deliver high-impact software solutions.<br/>
+
+                  • Demonstrated strong problem-solving and continuous learning, transitioning from intern to Junior Software Engineer and actively contributing to real-world, enterprise-level projects.<br/>
 
                 </p>
               </div>
