@@ -18,7 +18,7 @@ export const data = [
   {
     id: 3,
     img: "https://i.postimg.cc/9f5FHqLz/Untitled-design-2.png",
-    title: "TextUtils",
+    title: "TextUtils with AI",
     desc: "",
     link: "https://textutils-avneesh.netlify.app/",
     git: "https://github.com/avneesh9908/TextUtils",
